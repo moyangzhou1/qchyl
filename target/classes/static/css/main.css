@@ -51,7 +51,10 @@ body{font: 12px/1.5 PingFangSC-Regular,Tahoma,'Microsoft Yahei',sans-serif;}
 
 
 /*index*/
-.content .title{text-align: center; color: #333333; padding:50px 0;}
+.content .title {
+  text-align: center;
+  color: red;
+}
 .content .title h5{font-size: 18px; color: #878787;}
 .content .title h3{font-size: 48px;}
 .content .title h4{font-size: 20px;}
